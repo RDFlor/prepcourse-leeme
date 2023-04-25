@@ -1,2 +1,2 @@
-# prepcourse-leeme
-repositorio de prueba del modulo 2
+creacion y clonacion del repositorio al escritorio
+
